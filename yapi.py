@@ -6,7 +6,7 @@ Created on Sat May 21 23:34:28 2022
 """
 import pytchat
 import time
-from utils.getkeys import key_check
+from getkeys import key_check
 from textblob import TextBlob
 from google_trans_new import google_translator  
 
